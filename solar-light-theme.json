@@ -1,0 +1,28 @@
+{
+    "awayIndicator": "#ffcc00",
+    "buttonBg": "#0078d4",
+    "buttonColor": "#ffffff",
+    "centerChannelBg": "#ffffff",
+    "centerChannelColor": "#1a1a1a",
+    "codeTheme": "solar-light",
+    "dndIndicator": "#d70022",
+    "errorTextColor": "#ff5c5c",
+    "linkColor": "#0066cc",
+    "mentionBg": "#e3f2ff",
+    "mentionBj": "#e3f2ff",
+    "mentionColor": "#004a8f",
+    "mentionHighlightBg": "#cde8ff",
+    "mentionHighlightLink": "#004a8f",
+    "newMessageSeparator": "#0078d4",
+    "onlineIndicator": "#4caf50",
+    "sidebarBg": "#f5f5f5",
+    "sidebarHeaderBg": "#eaeff3",
+    "sidebarHeaderTextColor": "#333333",
+    "sidebarTeamBarBg": "#eaeff3",
+    "sidebarText": "#986f41",
+    "sidebarTextActiveBorder": "#0078d4",
+    "sidebarTextActiveColor": "#0078d4",
+    "sidebarTextHoverBg": "#e6f4ff",
+    "sidebarUnreadText": "#7a5835"
+  }
+  
